@@ -1,0 +1,10 @@
+[
+  {
+    "pregunta": "Evalúa si el código sigue buenas prácticas de Python.",
+    "ruta_archivo": "app1.py"
+  },
+  {
+    "pregunta": "¿El código implementa correctamente la funcionalidad solicitada?",
+    "ruta_archivo": "app2.py"
+  }
+] 
